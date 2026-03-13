@@ -11,7 +11,7 @@
 ├── code/
 │   ├── src/
 │   │   └── code.ipynb        # 包含端到端 (end-to-end) 執行流程的主 Jupyter Notebook
-│   ├── README.md             # 原始的繁體中文執行步驟說明
+│   ├── README.md             # 原始的中文執行步驟說明
 │   └── requirements.txt      # Python 依賴套件清單
 ├── report.pdf                # 詳細的專案書面報告
 ├── example.png               # 實際預測效果截圖
