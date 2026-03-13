@@ -17,3 +17,6 @@ venv.bak/
 
 # VS Code
 .vscode/
+
+# Media Files
+*.mp4
